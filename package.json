@@ -1,0 +1,30 @@
+{
+  "name": "crowdfunding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-hack-god/Crowdfunding-DAPP/Crowdfunding-DAPP.git"
+  },
+  "author": " ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-hack-god/Crowdfunding-DAPP/issues"
+  },
+  "homepage": "https://github.com/the-hack-god/Crowdfunding-DAPP",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.2",
+    "hardhat": "^2.9.5"
+  },
+  "dependencies": {
+    "yarn": "^1.22.18"
+  }
+}
